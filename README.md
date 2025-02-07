@@ -1,5 +1,5 @@
 # CAD-Portfolio
-Hi, welcome to my CAD proftfolio that documents my progression and CAD-ing journey! :)
+Hi, welcome to my CAD portfolio that documents my progression and CAD-ing journey! :)
 
 The CAD softwares I mainly use are SolidWorks, AutoCAD, Civil 3D, and Infraworks. The design projects I have so far created range from prototypes of parts, structures, and civil infrastructure that I have designed using CAD softwares. I am always willing to find ways to improve my designs and process, feedback and suggestions are very welcome!
 
